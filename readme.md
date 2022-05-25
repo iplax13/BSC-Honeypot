@@ -37,7 +37,7 @@ Price:
 
 
 ## How to buy?
-BSC address: 0x246Db3B0663265B42eecD3DceDE5F896090378aA
+BSC address: 0x246Db3B0663265B42eecD3DceDE5F896090378aA 
 email: fuckthebinance@protonmail.com
 
 1. Send the bnb to the address, make a print of the transaction and send it to my email // u can send the bscscan transaction link with the print, will be more fast to validate your purchase.
