@@ -6,8 +6,11 @@ Last account get flagged & the contribution removed by github
 ## BSC TOKEN HONEYPOT EXAMPLE: 
 
 https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA //this token uses the advanced code & legit functions included in the pack 
+
 https://www.coinsniper.net/coin/16153
+
 https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
+
 
 ## Pack Content: 
 
@@ -30,11 +33,12 @@ Price:
 - ALL Contracts (bsc full pack, cro and avax): 0.4 bnb - (4 videos to help)
 
 
+
+
+## How to buy?
 BSC address: 0x246Db3B0663265B42eecD3DceDE5F896090378aA
 
 email: fuckthebinance@protonmail.com
-
-## How to buy?
 
 1. Send the bnb to the address, make a print of the transaction and send it to my email // u can send the bscscan transaction link with the print, will be more fast to validate your purchase.
 2. You will receive the pack in your email after validation.
