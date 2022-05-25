@@ -26,13 +26,13 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 3. Legit Functions
     - Bypass some honeypot detectors and make verification on bscscan with hidden functions.
 
-Price:
+****Price**:**
 
-- BSC Simple Code: 0.1 bnb
-- BSC Full Pack (simple, advanced & legit): 0.2 bnb (2 videos to help)
-- CRO Advanced Code: 0.3 bnb (1 video to help)
-- AVAX Advanced Code: 0.3 bnb (1 video to help)
-- ALL Contracts (bsc full pack, cro and avax): 0.4 bnb (4 videos to help)
+- **BSC Simple Code: 0.1 bnb**
+- **BSC Full Pack (simple, advanced & legit): 0.2 bnb**  (+2 tutorial video)
+- **CRO Advanced Code: 0.3 bnb**  (+1 tutorial video)
+- **AVAX Advanced Code: 0.3 bnb**  (+1 tutorial video)
+- **ALL Contracts (bsc full pack, cro and avax): 0.4 bnb**  (+4 tutorial video)
 
 
 
