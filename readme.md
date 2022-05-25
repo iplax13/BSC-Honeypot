@@ -32,7 +32,7 @@ Price:
 - BSC Full Pack (simple, advanced & legit): 0.2 bnb (2 videos to help)
 - CRO Advanced Code: 0.3 bnb (1 video to help)
 - AVAX Advanced Code: 0.3 bnb (1 video to help)
-- ALL Contracts (bsc full pack, cro and avax): 0.4 bnb - (4 videos to help)
+- ALL Contracts (bsc full pack, cro and avax): 0.4 bnb (4 videos to help)
 
 
 
