@@ -29,18 +29,18 @@ Price:
 - AVAX Advanced Code: 0.3 bnb (1 video to help)
 - ALL Contracts (bsc full pack, cro and avax): 0.4 bnb - (4 videos to help)
 
-bsc address: 0x246Db3B0663265B42eecD3DceDE5F896090378aA
+
+BSC address: 0x246Db3B0663265B42eecD3DceDE5F896090378aA
+
 email: fuckthebinance@protonmail.com
 
 ## How to buy?
-
-Please feel free to contribute by adding new templates to this project:
 
 1. Send the bnb to the address, make a print of the transaction and send it to my email // u can send the bscscan transaction link with the print, will be more fast to validate your purchase.
 2. You will receive the pack in your email after validation.
 
 
-### DONT Forget
+### DONT FORGET
 
-- **The pack you will receive depends on the amount sent, so pay attention to the prices.
-- **I can send the code ready for you just send me the name of the token and its abbreviation.
+- The pack you will receive depends on the amount sent, so pay attention to the prices.
+- I can send the code ready for you just send me the name of the token and its abbreviation.
