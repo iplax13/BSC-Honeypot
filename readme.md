@@ -1,10 +1,5 @@
 # Best honeypot price on the market
 
-My last account get flagged & the contribution removed by github
-
-So here we go again :D
-
-
 ## BSC TOKEN HONEYPOT EXAMPLE: 
 
 https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA //this token uses the advanced code & legit functions included in the pack 
@@ -51,3 +46,9 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 
 - The pack you will receive depends on the amount sent, so pay attention to the prices.
 - I can send the code ready for you just send me the name of the token and its abbreviation.
+
+
+My last account get flagged & the contribution removed by github
+
+So here we go again :D
+
