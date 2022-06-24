@@ -48,7 +48,3 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 - I can send the code ready for you just send me the name of the token and its abbreviation.
 
 
-My last account get flagged & the contribution removed by github
-
-So here we go again :D
-
