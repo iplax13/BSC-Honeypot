@@ -1,4 +1,4 @@
-# Best honeypot price on the market
+# Best honeypot price on the market AVAILABLE AGAIN
 
 ## BSC TOKEN HONEYPOT EXAMPLE: 
 
@@ -23,7 +23,7 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 
 ****Price**:**
 
-- **BSC Simple Code: 0.1 bnb**
+- **~~BSC Simple Code: 0.1 bnb~~ - IT IS NO LONGER AVAILABLE**
 - **BSC Full Pack (simple, advanced & legit): 0.2 bnb**  (+2 tutorial video)
 - **CRO Advanced Code: 0.3 bnb**  (+1 tutorial video)
 - **AVAX Advanced Code: 0.3 bnb**  (+1 tutorial video)
