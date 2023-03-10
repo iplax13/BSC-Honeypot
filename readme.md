@@ -1,4 +1,4 @@
-# Best honeypot price on the market AVAILABLE AGAIN
+# Best honeypot price on the market | AVAILABLE AGAIN |
 
 ## BSC TOKEN HONEYPOT EXAMPLE: 
 
