@@ -24,9 +24,9 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 ****Price**:**
 
 - **~~BSC Simple Code: 0.1 bnb~~ - IT IS NO LONGER AVAILABLE**
-- **BSC Full Pack (simple, advanced & legit): 0.2 bnb**  (+2 tutorial video)
-- **CRO Advanced Code: 0.3 bnb**  (+1 tutorial video)
-- **AVAX Advanced Code: 0.3 bnb**  (+1 tutorial video)
+- **BSC Full Pack (advanced & legit): 0.2 bnb**  (+2 tutorial video)
+- **CRO: 0.3 bnb**  (+1 tutorial video)
+- **AVAX: 0.3 bnb**  (+1 tutorial video)
 - **ALL Contracts (bsc full pack, cro and avax): 0.4 bnb**  (+4 tutorial video)
 
 
@@ -44,7 +44,5 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 
 ### DONT FORGET
 
-- The pack you will receive depends on the amount sent, so pay attention to the prices.
-- I can send the code ready for you just send me the name of the token and its abbreviation.
-
+- Pay attention to the price list before you make a transaction.
 
