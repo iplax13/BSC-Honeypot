@@ -37,7 +37,7 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 - email: fuckthebinance@protonmail.com
 
 
-1. Send the bnb to the address, make a print of the transaction and send it to my email // u can send the bscscan transaction link with the print, will be more fast to validate your purchase. 
+1. Send the bnb to the address, make a print(or the link) of the transaction and send it to my email 
 2. You will receive the pack in your email after validation.
 3. You will receive a video (or more than 1) by email explaining how it works and what to change in the contract, how to whitelist, create inflation (mint new tokens to a specific address) and more
 
