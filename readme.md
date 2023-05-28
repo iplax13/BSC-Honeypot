@@ -12,10 +12,10 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 ## Pack Content: 
 
 1. Simple Code
-    - Just the owner can sell, burn adress to owner
+    - Just the owner can sell, burn adress to owner.
     
 2. Advanced Code
-    - Just the owner can sell, burn adress to owner, inflated starting price (tips in the txt "help"), whitelist some address (for make more legit when sell), timer for ban sales (the token is legit at the beginning)
+    - Just the owner can sell, burn adress to owner, inflated starting price (tips in the txt "help"), whitelist some address (for make more legit when sell), timer for ban sales (the token is legit at the beginning).
     - OBS: You can disable any feature just let me know when you send me the email or do it yourself with the tutorial help (more information in the video).
    
 3. Legit Functions
@@ -37,9 +37,9 @@ https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 - email: fuckthebinance@protonmail.com
 
 
-1. Send the bnb to the address, make a print(or the link) of the transaction and send it to my email 
+1. Send the bnb to the address, make a print(or take the link) of the transaction and send it to my email .
 2. You will receive the pack in your email after validation.
-3. You will receive a video (or more than 1) by email explaining how it works and what to change in the contract, how to whitelist, create inflation (mint new tokens to a specific address) and more
+3. You will receive a video (or more than 1) by email explaining how it works and what to change in the contract, how to whitelist, create inflation (mint new tokens to a specific address) and more.
 
 
 ### DONT FORGET
