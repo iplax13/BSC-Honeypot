@@ -1,8 +1,8 @@
 # Best honeypot price on the market | AVAILABLE AGAIN |
 
-## BSC TOKEN HONEYPOT EXAMPLE: 
+## BSC ADVANCED CODE HONEYPOT EXAMPLE: 
 
-https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA //this token uses the advanced code & legit functions included in the pack 
+https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA - this token uses the advanced code & legit functions included in the pack 
 
 https://www.coinsniper.net/coin/16153
 
