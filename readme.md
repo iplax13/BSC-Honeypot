@@ -14,7 +14,7 @@ https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA
     - Just the owner can sell, burn adress to owner.
     
 2. Advanced Code
-    - Just the owner can sell, burn adress to owner, inflated starting price (tips in the txt "help"), whitelist some address (for make more legit when sell), timer for ban sales (the token is legit at the beginning) and more.
+    - Just the owner can sell, burn adress to owner, inflated starting price, whitelist some address (for make more legit when sell), timer for ban sales (the token is legit at the beginning) and more (tips in the txt "help" inside the pack).
    
 3. Legit Functions
     - Bypass some honeypot detectors and make verification on bscscan with some hidden functions.
