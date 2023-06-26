@@ -1,12 +1,11 @@
 # Best honeypot price on the market | AVAILABLE AGAIN |
 
 ## BSC ADVANCED CODE HONEYPOT EXAMPLE (without proxy): 
-
-https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA
+https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
 
 https://www.coinsniper.net/coin/16153
 
-https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa
+https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA
 
 
 ## Pack Content: 
